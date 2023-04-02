@@ -12,8 +12,8 @@
 
 #### Big screen
 
-<img src ="overview-1.png" width = 50% height = 50%>
+<img src ="overview-1.png" width = 70% height = 70%>
 
 #### Small screen
 
-<img src ="overview-2.png" width = 50% height = 50%>
+<img src ="overview-2.png" width = 70% height = 70%>
